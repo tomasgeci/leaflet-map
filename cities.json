@@ -1,152 +1,27 @@
 [
-    {
-        "city": "London",
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "color": "blue"
-    },
-    {
-        "city": "Berlin",
-        "lat": 52.5200,
-        "lng": 13.4050,
-        "color": "yellow"
-    },
-    {
-        "city": "Dresden",
-        "lat": 51.0504,
-        "lng": 13.7373,
-        "color": "red"
-    },
-    {
-        "city": "Barcelona",
-        "lat": 41.3851,
-        "lng": 2.1734,
-        "color": "red"
-    },
-    {
-        "city": "Milan",
-        "lat": 45.4642,
-        "lng": 9.1900,
-        "color": "green"
-    },
-    {
-        "city": "Ljubljana",
-        "lat": 46.0569,
-        "lng": 14.5058,
-        "color": "orange"
-    },
-    {
-        "city": "Vienna",
-        "lat": 48.2082,
-        "lng": 16.3738,
-        "color": "yellow"
-    },
-    {
-        "city": "Paris",
-        "lat": 48.8566,
-        "lng": 2.3522,
-        "color": "violet"
-    },
-    {
-        "city": "Copenhagen",
-        "lat": 55.6761,
-        "lng": 12.5683,
-        "color": "grey"
-    },
-    {
-        "city": "Prague",
-        "lat": 50.0755,
-        "lng": 14.4378,
-        "color": "red"
-    },
-    {
-        "city": "Brno",
-        "lat": 49.1951,
-        "lng": 16.6068,
-        "color": "green"
-    },
-    {
-        "city": "Cesky Krumlov",
-        "lat": 48.8109,
-        "lng": 14.3152,
-        "color": "orange"
-    },
-    {
-        "city": "Linz",
-        "lat": 48.3069,
-        "lng": 14.2858,
-        "color": "yellow"
-    },
-    {
-        "city": "Graz",
-        "lat": 47.0707,
-        "lng": 15.4395,
-        "color": "violet"
-    },
-    {
-        "city": "Passau",
-        "lat": 48.5735,
-        "lng": 13.4312,
-        "color": "grey"
-    },
-    {
-        "city": "Koblenz",
-        "lat": 50.3569,
-        "lng": 7.5889,
-        "color": "black"
-    },
-    {
-        "city": "Stockholm",
-        "lat": 59.3293,
-        "lng": 18.0686,
-        "color": "blue"
-    },
-    {
-        "city": "Venezia",
-        "lat": 45.4408,
-        "lng": 12.3155,
-        "color": "blue"
-    },
-    {
-        "city": "Lignano Sabbiadoro",
-        "lat": 45.6925,
-        "lng": 13.1367,
-        "color": "green"
-    },
-    {
-        "city": "Náchod",
-        "lat": 50.4163,
-        "lng": 16.1628,
-        "color": "orange"
-    },
-    {
-        "city": "Kutná Hora",
-        "lat": 49.9485,
-        "lng": 15.2683,
-        "color": "yellow"
-    },
-    {
-        "city": "Olomouc",
-        "lat": 49.5938,
-        "lng": 17.2509,
-        "color": "violet"
-    },
-    {
-        "city": "Hradec Králové",
-        "lat": 50.2092,
-        "lng": 15.8325,
-        "color": "grey"
-    },
-    {
-        "city": "České Budějovice",
-        "lat": 48.9747,
-        "lng": 14.4746,
-        "color": "black"
-    },
-    {
-        "city": "Karlovy Vary",
-        "lat": 50.2306,
-        "lng": 12.8726,
-        "color": "blue"
-    }
+    { "city": "London", "lat": 51.5074, "lng": -0.1278, "color": "blue" },
+    { "city": "Stockholm", "lat": 59.3293, "lng": 18.0686, "color": "blue" },
+    { "city": "Paris", "lat": 48.8566, "lng": 2.3522, "color": "grey" },
+    { "city": "Copenhagen", "lat": 55.6761, "lng": 12.5683, "color": "yellow" },
+    { "city": "Ljubljana", "lat": 46.0569, "lng": 14.5058, "color": "orange" },
+    { "city": "Barcelona", "lat": 41.3851, "lng": 2.1734, "color": "red" },
+    { "city": "Berlin", "lat": 52.5200, "lng": 13.4050, "color": "black" },
+    { "city": "Dresden", "lat": 51.0504, "lng": 13.7373, "color": "black" },
+    { "city": "Passau", "lat": 48.5735, "lng": 13.4312, "color": "black" },
+    { "city": "Koblenz", "lat": 50.3569, "lng": 7.5889, "color": "black" },
+    { "city": "Milan", "lat": 45.4642, "lng": 9.1900, "color": "green" },
+    { "city": "Venezia", "lat": 45.4408, "lng": 12.3155, "color": "green" },
+    { "city": "Lignano Sabbiadoro", "lat": 45.6925, "lng": 13.1367, "color": "green" },
+    { "city": "Vienna", "lat": 48.2082, "lng": 16.3738, "color": "violet" },
+    { "city": "Linz", "lat": 48.3069, "lng": 14.2858, "color": "violet" },
+    { "city": "Graz", "lat": 47.0707, "lng": 15.4395, "color": "violet" },
+    { "city": "Prague", "lat": 50.0755, "lng": 14.4378, "color": "red" },
+    { "city": "Brno", "lat": 49.1951, "lng": 16.6068, "color": "red" },
+    { "city": "Cesky Krumlov", "lat": 48.8109, "lng": 14.3152, "color": "red" },
+    { "city": "Náchod", "lat": 50.4163, "lng": 16.1628, "color": "red" },
+    { "city": "Kutná Hora", "lat": 49.9485, "lng": 15.2683, "color": "red" },
+    { "city": "Olomouc", "lat": 49.5938, "lng": 17.2509, "color": "red" },
+    { "city": "Hradec Králové", "lat": 50.2092, "lng": 15.8325, "color": "red" },
+    { "city": "České Budějovice", "lat": 48.9747, "lng": 14.4746, "color": "red" },
+    { "city": "Karlovy Vary", "lat": 50.2306, "lng": 12.8726, "color": "red" }
 ]
