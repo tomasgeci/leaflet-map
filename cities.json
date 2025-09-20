@@ -1,0 +1,50 @@
+[
+    {
+        "city": "London",
+        "lat": 51.5074,
+        "lng": -0.1278,
+        "color": "blue"
+    },
+    {
+        "city": "Berlin",
+        "lat": 52.5200,
+        "lng": 13.4050,
+        "color": "gold"
+    },
+    {
+        "city": "Barcelona",
+        "lat": 41.3851,
+        "lng": 2.1734,
+        "color": "red"
+    },
+    {
+        "city": "Milan",
+        "lat": 45.4642,
+        "lng": 9.1900,
+        "color": "green"
+    },
+    {
+        "city": "Ljubljana",
+        "lat": 46.0569,
+        "lng": 14.5058,
+        "color": "orange"
+    },
+    {
+        "city": "Vienna",
+        "lat": 48.2082,
+        "lng": 16.3738,
+        "color": "yellow"
+    },
+    {
+        "city": "Paris",
+        "lat": 48.8566,
+        "lng": 2.3522,
+        "color": "violet"
+    },
+    {
+        "city": "Copenhagen",
+        "lat": 55.6761,
+        "lng": 12.5683,
+        "color": "grey"
+    }
+]
