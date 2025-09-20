@@ -100,5 +100,47 @@
         "lat": 59.3293,
         "lng": 18.0686,
         "color": "blue"
+    },
+    {
+        "city": "Venezia",
+        "lat": 45.4408,
+        "lng": 12.3155,
+        "color": "blue"
+    },
+    {
+        "city": "Lignano Sabbiadoro",
+        "lat": 45.6925,
+        "lng": 13.1367,
+        "color": "green"
+    },
+    {
+        "city": "Náchod",
+        "lat": 50.4163,
+        "lng": 16.1628,
+        "color": "orange"
+    },
+    {
+        "city": "Kutná Hora",
+        "lat": 49.9485,
+        "lng": 15.2683,
+        "color": "yellow"
+    },
+    {
+        "city": "Olomouc",
+        "lat": 49.5938,
+        "lng": 17.2509,
+        "color": "violet"
+    },
+    {
+        "city": "Hradec Králové",
+        "lat": 50.2092,
+        "lng": 15.8325,
+        "color": "grey"
+    },
+    {
+        "city": "České Budějovice",
+        "lat": 48.9747,
+        "lng": 14.4746,
+        "color": "black"
     }
 ]
