@@ -9,7 +9,13 @@
         "city": "Berlin",
         "lat": 52.5200,
         "lng": 13.4050,
-        "color": "gold"
+        "color": "yellow"
+    },
+    {
+        "city": "Dresden",
+        "lat": 51.0504,
+        "lng": 13.7373,
+        "color": "red"
     },
     {
         "city": "Barcelona",
