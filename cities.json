@@ -142,5 +142,11 @@
         "lat": 48.9747,
         "lng": 14.4746,
         "color": "black"
+    },
+    {
+        "city": "Karlovy Vary",
+        "lat": 50.2306,
+        "lng": 12.8726,
+        "color": "blue"
     }
 ]
