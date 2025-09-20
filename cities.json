@@ -46,5 +46,53 @@
         "lat": 55.6761,
         "lng": 12.5683,
         "color": "grey"
+    },
+    {
+        "city": "Prague",
+        "lat": 50.0755,
+        "lng": 14.4378,
+        "color": "red"
+    },
+    {
+        "city": "Brno",
+        "lat": 49.1951,
+        "lng": 16.6068,
+        "color": "green"
+    },
+    {
+        "city": "Cesky Krumlov",
+        "lat": 48.8109,
+        "lng": 14.3152,
+        "color": "orange"
+    },
+    {
+        "city": "Linz",
+        "lat": 48.3069,
+        "lng": 14.2858,
+        "color": "yellow"
+    },
+    {
+        "city": "Graz",
+        "lat": 47.0707,
+        "lng": 15.4395,
+        "color": "violet"
+    },
+    {
+        "city": "Passau",
+        "lat": 48.5735,
+        "lng": 13.4312,
+        "color": "grey"
+    },
+    {
+        "city": "Koblenz",
+        "lat": 50.3569,
+        "lng": 7.5889,
+        "color": "black"
+    },
+    {
+        "city": "Stockholm",
+        "lat": 59.3293,
+        "lng": 18.0686,
+        "color": "blue"
     }
 ]
