@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const map = L.map('map').setView([54.5260, 15.2551], 4);
+    const map = L.map('map');
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -8,6 +8,7 @@ document.addEventListener('DOMContentLoaded', function () {
     fetch('cities.json')
         .then(response => response.json())
         .then(cities => {
+            const bounds = L.latLngBounds();
             cities.forEach(city => {
                 const icon = new L.Icon({
                     iconUrl: `https://cdn.jsdelivr.net/gh/pointhi/leaflet-color-markers/img/marker-icon-2x-${city.color}.png`,
@@ -21,7 +22,10 @@ document.addEventListener('DOMContentLoaded', function () {
                 L.marker([city.lat, city.lng], { icon: icon })
                     .addTo(map)
                     .bindPopup(city.city);
+
+                bounds.extend([city.lat, city.lng]);
             });
+            map.fitBounds(bounds, { padding: [50, 50] });
         })
         .catch(error => console.error('Error loading city data:', error));
 });
